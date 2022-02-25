@@ -7,7 +7,7 @@
 
 
 ### Recursos
- - Acesse a página do <a href="https://www.python.org/downloads/">🔗 Python;
+ - Acesse a página do <a href="https://www.python.org/downloads/">🔗 Python;</a>
  - Baixe a versão 3.10.1
  - Abra o Terminal, vá até a pasta "automation-testing";
  - digite pip install -r requirements.txt e baixe as dependências.
